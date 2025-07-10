@@ -2,3 +2,4 @@
 set -eu
 
 echo "codex-cli-nix"
+# drop an unused branch
